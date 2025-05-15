@@ -1,1 +1,1 @@
-Atividades Estrutura e repetição
+Atividades Estrutura de repetição
